@@ -1,0 +1,21 @@
+{
+  "holdout_channel": "Paid_Social",
+  "holdout_start_day_index": 400,
+  "holdout_end_day_index": 434,
+  "holdout_start_date": "2024-02-05",
+  "holdout_end_date": "2024-03-09",
+  "test_geos": [
+    "GEO_01",
+    "GEO_02",
+    "GEO_03"
+  ],
+  "control_geos": [
+    "GEO_04",
+    "GEO_05",
+    "GEO_06",
+    "GEO_07",
+    "GEO_08",
+    "GEO_09",
+    "GEO_10"
+  ]
+}

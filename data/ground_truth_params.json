@@ -1,0 +1,66 @@
+{
+  "TV_OTT": {
+    "decay": 0.55,
+    "alpha": 0.9,
+    "half_sat": 9000,
+    "beta": 42000,
+    "base_spend": 7000,
+    "spend_noise": 0.15
+  },
+  "Paid_Search": {
+    "decay": 0.15,
+    "alpha": 1.1,
+    "half_sat": 6000,
+    "beta": 28000,
+    "base_spend": 5500,
+    "spend_noise": 0.12
+  },
+  "Paid_Social": {
+    "decay": 0.35,
+    "alpha": 1.0,
+    "half_sat": 5000,
+    "beta": 19000,
+    "base_spend": 4500,
+    "spend_noise": 0.18
+  },
+  "Display": {
+    "decay": 0.25,
+    "alpha": 1.3,
+    "half_sat": 4000,
+    "beta": 6000,
+    "base_spend": 3800,
+    "spend_noise": 0.2
+  },
+  "Email": {
+    "decay": 0.05,
+    "alpha": 0.8,
+    "half_sat": 1400,
+    "beta": 4200,
+    "base_spend": 650,
+    "spend_noise": 0.05
+  },
+  "Affiliate": {
+    "decay": 0.1,
+    "alpha": 1.0,
+    "half_sat": 2800,
+    "beta": 8500,
+    "base_spend": 2600,
+    "spend_noise": 0.1
+  },
+  "Influencer": {
+    "decay": 0.4,
+    "alpha": 1.2,
+    "half_sat": 2500,
+    "beta": 5200,
+    "base_spend": 2200,
+    "spend_noise": 0.25
+  },
+  "Direct_Mail": {
+    "decay": 0.6,
+    "alpha": 1.4,
+    "half_sat": 1800,
+    "beta": 3600,
+    "base_spend": 1500,
+    "spend_noise": 0.1
+  }
+}
